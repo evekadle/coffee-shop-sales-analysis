@@ -43,3 +43,7 @@ The original data was gathered from **(https://github.com/mochen862/excel-projec
 
 ## **Tools & Technologies**  
 - **Google Sheets:** Used for data cleaning, analysis, and visualization.
+
+---
+## **Tableau Visualization**  
+https://public.tableau.com/views/CoffeeShopSales-2019-2022/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
